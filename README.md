@@ -29,7 +29,7 @@ The code is written in Python with PyTorch and is designed for a small custom di
 
 ## Project Structure
 
-Example layout (your file names may differ slightly):
+
 
 ```text
 .
